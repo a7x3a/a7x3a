@@ -2,7 +2,7 @@
 HEYY , my name is Ahmad and i,m a junior front-end developer and a Computer Scince student.
 
 Check out my portfolio at :
- [![Portfolio](https://a7x3a.github.io/assets/logo-kNVa4CLC.png)](https://a7x3a.github.io/) 
+ [![Portfolio](https://img.icons8.com/?size=100&id=naDnVpQ3BNkR&format=png&color=000000)](https://a7x3a.github.io/) 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a7x3aa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadomar0) 
