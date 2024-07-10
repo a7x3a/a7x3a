@@ -1,5 +1,5 @@
 # 💫 About Me:
-HEYY , my name is Ahmad and i,m a junior front-end developer and a Computer Scince student.
+hey my name is Ahmad and i,m a junior front-end developer and aComputer science student.
 
 Check out my portfolio at :
  [Portfolio](https://a7x3a.github.io/) 
