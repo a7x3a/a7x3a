@@ -1,4 +1,4 @@
-# 💫 About:
+# 💫 About
 hey my mame is ahmad and i,m a junior front-end Developer and a Computer Science Student.
 
 Check out my portfolio at :
