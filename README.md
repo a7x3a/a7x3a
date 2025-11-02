@@ -2,7 +2,7 @@
 hey my mame is ahmad and i,m a junior front-end Developer and a Computer Science Student.
 
 Check out my portfolio at :
-[Portfolio](https://a7x3a.vercel.app/) 
+[Portfolio](https://a7x3a.dev/) 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a7x3aa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadomar0) 
