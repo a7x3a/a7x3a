@@ -45,7 +45,7 @@ I'm a **Computer Science student** and **Frontend Developer** from Iraq. I build
 
 <div align="center">
 
-<table>
+<table style="border-collapse: collapse; border: none;" >
 <tr>
 <td align="center" width="140">
 <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
