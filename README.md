@@ -1,6 +1,6 @@
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a4731,100:0d1117&height=200&section=header&text=Ahmad%20Omar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20&descSize=18&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a4731,100:0d1117&height=200&section=header&text=Ahmad%20Omar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=FullStack%20Developer%20&descSize=18&descAlignY=55)
 
 <br/>
 
@@ -24,7 +24,7 @@
 
 <br/>
 
-I'm a **Computer Science student** and **Frontend Developer** from Iraq. I build modern web applications with a focus on performance, clean code, and great user experience. Beyond web development, I explore **AI/ML** and **Computer Vision**.
+I'm a **Computer Science student** and **Fullstack Developer** from Iraq. I build modern web applications with a focus on performance, clean code, and great user experience. Beyond web development, I explore **AI/ML** and **Computer Vision**.
 
 <br/>
 
