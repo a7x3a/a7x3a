@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding meme" />
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="400" alt="coding" />
 
 ### Hi, I'm Ahmad Omar 👋
 
