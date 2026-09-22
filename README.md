@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f2027,50:2c5364,100:0f2027&height=170&section=header&text=Ahmad%20Omar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Frontend%20%26%20Full-Stack%20Developer&descSize=18&descAlignY=62&descColor=7ee787" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding meme" />
+
+### Hi, I'm Ahmad Omar 👋
+
+**Frontend & Full-Stack Developer**
 
 <br/>
 
@@ -49,6 +53,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f2027,50:2c5364,100:0f2027&height=80&section=footer" />
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="wave" />
 
 </div>
