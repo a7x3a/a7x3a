@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)]" width="400" alt="coding" />
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="400" alt="cat coding" />
 
 ### Hi, I'm Ahmad Omar 👋
 
