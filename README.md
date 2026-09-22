@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="400" alt="coding" />
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" alt="coding" />
 
 ### Hi, I'm Ahmad Omar 👋
 
@@ -53,6 +53,6 @@
 
 <br/>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="wave" />
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="70" alt="cat" />
 
 </div>
